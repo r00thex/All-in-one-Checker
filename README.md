@@ -6,4 +6,4 @@ cd All-in-one-Checker
 
 ls 
 
-python mane.py
+python main.py
