@@ -6,4 +6,4 @@ cd All-in-one-Checker
 
 ls 
 
-python maine.py
+python mane.py
